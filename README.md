@@ -22,6 +22,7 @@ This project documents my custom **Home Assistant setup** running on an older **
 * **Shopping List:** Built-in shopping list.
 * **Screensaver Mode:** Automatically switches to a minimalist clock screen after inactivity (via Fully Kiosk settings)
 * **Bathroom heating** - option to remotely turn on bathroom heating.
+* **3D printer** - the ability to remotely turn my 3D printer on and off
 * **Music Control:** Live Web-Radio on dashboard.
 
 ---
